@@ -12,3 +12,5 @@ spring:
     expose-session-attributes: true
     request-context-attributes: request
     suffix: .ftl
+  resources:
+    static-locations: classpath:/static
